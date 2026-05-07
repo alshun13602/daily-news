@@ -1,0 +1,9 @@
+{
+  "smtp_host": "smtp.example.com",
+  "smtp_port": 465,
+  "smtp_user": "your@email.com",
+  "smtp_pass": "your_email_password",
+  "sender_name": "你的日报机器人",
+  "receiver_name": "收件人昵称",
+  "receiver_email": "receiver@email.com"
+}
